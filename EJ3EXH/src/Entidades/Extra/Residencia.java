@@ -1,6 +1,7 @@
-package Entidades;
+package Entidades.Extra;
 
-public class Residencia extends Extrahotelero{
+
+public class Residencia extends Extrahotelero {
     private boolean descuentos, campoDeportivo;
 
     public Residencia() {
